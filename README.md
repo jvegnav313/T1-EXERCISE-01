@@ -1,4 +1,4 @@
-# Practica 1
+# Practica 2
 
 Server tiene asignada la direccion 192.168.57.10 para DHCP
 
